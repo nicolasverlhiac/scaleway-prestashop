@@ -1,5 +1,4 @@
-DOCKER_NAMESPACE =	armbuild/
-NAME =			scw-app-prestashop
+NAME =			prestashop
 VERSION =		latest
 VERSION_ALIASES =	1.6 1
 TITLE =			Prestashop
