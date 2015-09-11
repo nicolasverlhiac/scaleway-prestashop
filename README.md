@@ -1,6 +1,6 @@
 # Prestashop image on Scaleway
 
-[![Travis](https://img.shields.io/travis/scaleway/image-app-prestashop.svg)](https://travis-ci.org/scaleway/image-app-prestashop)
+[![Travis](https://img.shields.io/travis/scaleway-community/scaleway-prestashop.svg)](https://travis-ci.org/scaleway-community/scaleway-prestashop)
 [![Scaleway ImageHub](https://img.shields.io/badge/ImageHub-view-ff69b4.svg)](https://hub.scaleway.com/prestashop.html)
 [![Run on Scaleway](https://img.shields.io/badge/Scaleway-run-69b4ff.svg)](https://cloud.scaleway.com/#/servers/new?image=9d6d0f08-0694-49cd-9298-9a5a584c0c88)
 
