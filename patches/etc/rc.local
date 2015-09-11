@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/usr/local/bin/install_mysql_server.sh
+
+exit 0
