@@ -26,7 +26,7 @@ ENV PRESTASHOP_VERSION 1.6.1.1
 ADD ./patches/etc/ /etc/
 ADD ./patches/usr/local/ /usr/local/
 
-# Install WordPress
+# Install Prestashop
 RUN wget -qO prestashop.tar.gz https://github.com/PrestaShop/PrestaShop/archive/$PRESTASHOP_VERSION.tar.gz \
  && rm -rf /var/www/html/* \
  && tar -xzf prestashop.tar.gz -C /tmp/ \
