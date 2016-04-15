@@ -20,7 +20,7 @@ RUN apt-get -q update     \
  && apt-get clean
 
 
-ENV PRESTASHOP_VERSION 1.6.1.4
+ENV PRESTASHOP_VERSION 1.6.1.5
 
 # Patch rootfs
 ADD ./patches/etc/ /etc/
